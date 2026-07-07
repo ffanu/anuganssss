@@ -1,0 +1,6 @@
+{
+  "name": "Money Record & Xendit Dashboard",
+  "description": "A ledger to record incoming and outgoing money with a visual dashboard integrated with Xendit API for tracking online balances and incoming payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
